@@ -3,4 +3,4 @@ This project implements a Mini-DES–style Feistel cypher in Verilog using a 16-
 
 ## EDA Playground Simulation
 Click the link below to view and run the Mini-DES Verilog project:
-Open EDA Playground Project-(https://edaplayground.com/x/Hsrj)
+(https://edaplayground.com/x/Hsrj)
